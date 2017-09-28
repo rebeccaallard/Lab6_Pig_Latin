@@ -1,0 +1,7 @@
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\bin\Debug\Lab6_Pig_Latin_Translator.exe.config
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\bin\Debug\Lab6_Pig_Latin_Translator.exe
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\bin\Debug\Lab6_Pig_Latin_Translator.pdb
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\obj\Debug\Lab6_Pig_Latin_Translator.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\obj\Debug\Lab6_Pig_Latin_Translator.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\obj\Debug\Lab6_Pig_Latin_Translator.exe
+C:\Users\GC Student\Source\Repos\Lab6_Pig_Latin_Translator\Lab6_Pig_Latin_Translator\obj\Debug\Lab6_Pig_Latin_Translator.pdb
